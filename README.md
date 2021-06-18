@@ -10,5 +10,5 @@
 - 😄 Pronouns: are you kidding me?!!!!
 - ⚡ Fun fact: when i wrote this lines, i realized it could be a mistake.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihai011)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihai011&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
