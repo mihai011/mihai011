@@ -27,3 +27,15 @@
 ###  Visitors ✨
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihai011" alt="SulthanNK" /> </p>
+
+## My interests
+- Decentralising technologies.
+- Artificial intelligence.
+
+<span>
+<img src='https://ipfs.io/ipfs/QmTgtbb4LckHaXh1YhpNcBu48cFY8zgT1Lh49q7q7ksf3M/vector/ipfs-logo-vector-ice-text.svg' height='15%' width='15%'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg' height='15%' width='15%'>
+<img src='https://i2.wp.com/www.codingnagger.com/wp-content/uploads/2019/12/advent-of-code-2019.jpeg?w=2000&ssl=1' height='15%' width='15%'>
+<img src='https://s3.amazonaws.com/pbblogassets/uploads/2020/04/17213507/Synthwave-and-Vaporwave-Tutorial-Look-of-Synthwave.jpg' height='15%' width='15%'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jordan_Peterson_by_Gage_Skidmore.jpg/1280px-Jordan_Peterson_by_Gage_Skidmore.jpg' height='15%' width='15%'>
+</span>
