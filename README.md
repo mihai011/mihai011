@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on work.
+- 🔭 I’m currently working on everything.
 - 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate on everyone.
-- 🤔 I’m looking for help with nothing.
+- 👯 I’m looking to collaborate with everyone.
+- 🤔 I’m looking for help with everything.
 - 💬 Ask me about anything.
 - 📫 How to reach me: mihaimihai011@gmail.com
 - 😄 Pronouns: are you kidding me?!!!!
