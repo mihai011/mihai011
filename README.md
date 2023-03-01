@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on everything.
-- 🌱 I’m currently learning everything.
+- 🔭 I’m currently working on Fast-API-Full.
+- 🌱 I’m currently learning Rust, AWS Cloud and CEH.
 - 👯 I’m looking to collaborate with everyone.
 - 🤔 I’m looking for help with everything.
 - 💬 Ask me about anything.
@@ -37,5 +37,4 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg' height='15%' width='15%'>
 <img src='https://i2.wp.com/www.codingnagger.com/wp-content/uploads/2019/12/advent-of-code-2019.jpeg?w=2000&ssl=1' height='15%' width='15%'>
 <img src='https://s3.amazonaws.com/pbblogassets/uploads/2020/04/17213507/Synthwave-and-Vaporwave-Tutorial-Look-of-Synthwave.jpg' height='15%' width='15%'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jordan_Peterson_by_Gage_Skidmore.jpg/1280px-Jordan_Peterson_by_Gage_Skidmore.jpg' height='15%' width='15%'>
 </span>
