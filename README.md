@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on leafroot.
-- 🌱 I’m currently learning Rust, AWS Cloud and CEH.
+- 🌱 I’m currently learning Rust, AWS Cloud.
 - 👯 I’m looking to collaborate with everyone.
 - 🤔 I’m looking for help with everything.
 - 💬 Ask me about anything.
