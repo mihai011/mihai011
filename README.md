@@ -28,10 +28,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihai011" alt="SulthanNK" /> </p>
 
-## My interests
-- Decentralising technologies.
-- Artificial intelligence.
-
 <span>
 <img src='https://ipfs.io/ipfs/QmTgtbb4LckHaXh1YhpNcBu48cFY8zgT1Lh49q7q7ksf3M/vector/ipfs-logo-vector-ice-text.svg' height='15%' width='15%'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg' height='15%' width='15%'>
